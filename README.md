@@ -66,7 +66,7 @@ This template repository offers an automated method to align scientific names in
 7. download name alignment report from the "artifacts" section 
 8. to re-create/re-run results, change your name list in github or select ["re-run jobs" in Github Actions](https://docs.github.com/en/actions/managing-workflow-runs/re-running-workflows-and-jobs).
 
-# Origin
+## Origin
 
 This repository was conceived on 2022-03-08 during the [Alien CSI Hack-a-thon](https://github.com/alien-csi/alien-csi-hackathon) in Romania by Christina, Quentin, Jorrit, Jasmijn, .... For more information see https://github.com/alien-csi/alien-csi-hackathon . 
 
